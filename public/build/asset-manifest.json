@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9a66bae8.css",
+    "main.js": "/static/js/main.200dbd4f.js",
+    "static/media/landing.gif": "/static/media/landing.12600721efe046ee96b9.gif",
+    "static/media/loader.gif": "/static/media/loader.b40fc3d91ff1f4db53e2.gif",
+    "static/media/bg3.png": "/static/media/bg3.8c09f9b886f2f4283db1.png",
+    "static/media/googleplay.svg": "/static/media/googleplay.c1c57438c4e61a8ddec13dd1b2e43934.svg",
+    "static/media/appstore.svg": "/static/media/appstore.9680243ee14d701f28e0914790a710ea.svg",
+    "static/media/logo.svg": "/static/media/logo.67f68be327ef4e69f3ed8aadda1cb2af.svg",
+    "index.html": "/index.html",
+    "static/media/sellLine.svg": "/static/media/sellLine.9f0a1519c22897c3abf31d16a6c18c3d.svg",
+    "static/media/smallSellLine.svg": "/static/media/smallSellLine.2727d54d56c28f0126557fe83a34cc7a.svg",
+    "main.9a66bae8.css.map": "/static/css/main.9a66bae8.css.map",
+    "main.200dbd4f.js.map": "/static/js/main.200dbd4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a66bae8.css",
+    "static/js/main.200dbd4f.js"
+  ]
+}
