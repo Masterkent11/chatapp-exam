@@ -26,12 +26,14 @@ app.use("/api/auth", authRoutes);
 app.use("/api/messages", messageRoutes);
 
 const server = app.listen(process.env.PORT, () =>
-  console.log(`Speak Lord! Your server is listening on port ${process.env.PORT}`)
+  console.log(
+    `Speak Lord! Your server is listening on port ${process.env.PORT}`
+  )
 );
 const io = socket(server, {
   cors: {
-    // origin: "http://localhost:3000",
-    origin: "https://kentoapp.herokuapp.com/",
+    origin: "http://localhost:3000",
+    // origin: "https://kentoapp.herokuapp.com/",
     credentials: true,
   },
 });
