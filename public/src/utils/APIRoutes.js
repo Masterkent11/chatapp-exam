@@ -1,5 +1,5 @@
 // export const host = "http://localhost:5000";
-export const host = "http://localhost:8080";
+export const host = "https://aqueous-garden-53687-9cd6b9f0e562.herokuapp.com/";
 export const loginRoute = `${host}/api/auth/login`;
 export const registerRoute = `${host}/api/auth/register`;
 export const logoutRoute = `${host}/api/auth/logout`;
