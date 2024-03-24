@@ -32,7 +32,7 @@ const server = app.listen(process.env.PORT, () =>
 );
 const io = socket(server, {
   cors: {
-    origin: "http://localhost:3000",
+    origin: "https://server-chat-1-xqyn.onrender.com",
     // origin: "https://kentoapp.herokuapp.com/",
     credentials: true,
   },
